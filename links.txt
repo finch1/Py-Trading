@@ -1,0 +1,40 @@
+Other
+https://www.plus500.com/en-MT/Instruments/EURJPY
+https://www.interactivebrokers.com/en/trading/margin-rates.php
+
+Youtube
+https://www.youtube.com/watch?v=7oNYZCMMHPA,Automated 2 Rules Algorithmic Strategy Backtest In Python
+https://www.youtube.com/watch?v=FsqoV1aVrUc,How to Read Candlestick Charts
+https://www.youtube.com/watch?v=tI_C21bQnHw&list=PLX1GntV7GS7-8zeWWDIq5PkM_VmL0pmGB&index=15,How to Hedge Against 5 Big Financial Threats in 2019
+https://www.youtube.com/results?search_query=candle+stick+supply+demand+zones,candle stick supply demand zones
+https://www.youtube.com/watch?v=y78S-aCwqEM,Simple CandleStick Strategy Automated in Python
+https://www.youtube.com/watch?v=dl88t_oRtSE,PE Ratio, Dividend Yield, Dividend Payout
+https://www.youtube.com/watch?v=KhSdqV90a8s,Stock Market Backtesting using Python - Simple
+https://www.youtube.com/watch?v=HB1CLz0Z1NY,HUGE SCALE Backtest of Intraday Cryptocurrency Data using Python & SQL
+https://www.youtube.com/watch?v=8p240qonj0E,Simple Cryptocurrency Trading Signal App using Python and Streamlit [Realtime]
+https://www.youtube.com/watch?v=YsnPlQyCYfo,Build an Interactive Finance Dashboard with Python & Streamlit to compare Fundamentals of Stocks
+https://www.youtube.com/watch?v=Km2KDo6tFpQ,Streamlit Interactive Finance Dashboard - Stock Performance Comparison
+https://www.youtube.com/watch?v=3d5RTto5fKY,RSI Divergence Automated In Python For Algorithmic Trading
+,
+,
+,
+,
+,
+,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
